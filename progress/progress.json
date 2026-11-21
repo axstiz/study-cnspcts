@@ -14,12 +14,22 @@
       "id": 1,
       "slug": "01-osnovy-i-kombinatorika",
       "title": "Основы теории вероятностей и комбинаторика",
-      "level": 0,
-      "tasks_solved": 0,
-      "tasks_correct": 0,
+      "level": 1,
+      "tasks_solved": 1,
+      "tasks_correct": 1,
       "typical_errors": [],
-      "sessions": [],
-      "last_seen": null,
+      "sessions": [
+        {
+          "date": "2026-11-21",
+          "tasks": [
+            "A1"
+          ],
+          "statuses": {
+            "A1": "solved"
+          }
+        }
+      ],
+      "last_seen": "2026-11-21",
       "next_recheck": null
     },
     {
@@ -131,5 +141,13 @@
       "next_recheck": null
     }
   ],
-  "session_log": []
+  "session_log": [
+    {
+      "date": "2026-11-21",
+      "topics": [
+        1
+      ],
+      "note": "старт тренировки, блок A: A1 решён сам"
+    }
+  ]
 }
