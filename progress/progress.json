@@ -1,0 +1,135 @@
+{
+  "course": "terver",
+  "updated": "2026-11-21",
+  "levels": {
+    "0": "не видел",
+    "1": "видел (объяснение пройдено)",
+    "2": "разобрался с помощью (задачи с подсказками)",
+    "3": "решил сам (задачи без подсказок)",
+    "4": "уверенно (подтверждено перепроверкой через >=2 сессии)"
+  },
+  "recheck_rule": "тема на уровне 3 проходит перепроверку минимум через 2 сессии; успех -> уровень 4",
+  "topics": [
+    {
+      "id": 1,
+      "slug": "01-osnovy-i-kombinatorika",
+      "title": "Основы теории вероятностей и комбинаторика",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    },
+    {
+      "id": 2,
+      "slug": "02-uslovnaya-veroyatnost-bayes",
+      "title": "Условная вероятность и формула Байеса",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    },
+    {
+      "id": 3,
+      "slug": "03-diskretnye-sluchainye-velichiny",
+      "title": "Дискретные случайные величины",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    },
+    {
+      "id": 4,
+      "slug": "04-nepreryvnye-sluchainye-velichiny",
+      "title": "Непрерывные случайные величины",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    },
+    {
+      "id": 5,
+      "slug": "05-sistemy-sluchainykh-velichin",
+      "title": "Системы случайных величин",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    },
+    {
+      "id": 6,
+      "slug": "06-uslovnye-raspredeleniya-korrelatsiya",
+      "title": "Условные распределения и корреляция",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    },
+    {
+      "id": 7,
+      "slug": "07-naivny-bayes-chast-1",
+      "title": "Наивный байесовский классификатор. Часть 1",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    },
+    {
+      "id": 8,
+      "slug": "08-naivny-bayes-chast-2",
+      "title": "Наивный байесовский классификатор. Часть 2",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    },
+    {
+      "id": 9,
+      "slug": "09-raspredeleniya-v-ml",
+      "title": "Распределения, используемые в ML",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    },
+    {
+      "id": 10,
+      "slug": "10-dirichle",
+      "title": "Распределение Дирихле",
+      "level": 0,
+      "tasks_solved": 0,
+      "tasks_correct": 0,
+      "typical_errors": [],
+      "sessions": [],
+      "last_seen": null,
+      "next_recheck": null
+    }
+  ],
+  "session_log": []
+}
